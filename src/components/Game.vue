@@ -13,7 +13,7 @@
             <div class="col-4">
                 Name : {{NameHero}}
                 <br />
-                <img :src="ImgHero" :height="HPHero" class="img-fluid mx-auto" />
+                <img :src="ImgHero" :height="HPHero" class="mx-auto" />
                 <br>
                 HP : {{HPHero}}
                 <br>
@@ -28,7 +28,7 @@
             <div class="col-4">
                 Name : {{NameMonster}}
                 <br />
-                <img :src="ImgMonster" :height="HPMonster" class="img-fluid mx-auto" />
+                <img :src="ImgMonster" :height="HPMonster" class="mx-auto" />
                 <br>
                 HP : {{HPMonster}}
                 <br>
